@@ -1,12 +1,12 @@
 # Regression multivariées
 
-Contexte:  
-Un agent immobilier, souhaitant se démarquer par rapport à la concurrence fait appel à vous,  pour lui développer une solution lui permettant de croiser toutes les données et d’estimer avec précision leurs bien.  
-Lors de votre premier rdv, votre objectif est de bien comprendre le besoin de votre client et de définir le cahier des charges. 
+Context:  
+A real estate agent, wishing to stand out from the competition, calls on you to develop a solution allowing him to cross all the data and estimate with precision their property.  
+During your first meeting, your goal is to fully understand your client’s need and define the specifications. 
 
 
-- Rédaction du cahier des charges.    
-- Construction d'une démarche projet ML.  
-- Mettre en place un Dashboard permettant au client de mieux comprendre les données.  
-- Tester un modèle de machine learning et de deep learning puis les comparer.  
-- Mettre la solution à disposition du client
+- Drafting of specifications.    
+- Construction of a ML project approach.  
+- Set up a Dashboard allowing the customer to better understand the data.  
+- Test a machine learning and deep learning model and compare them.  
+- Make the solution available to the customer
